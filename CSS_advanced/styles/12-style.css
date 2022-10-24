@@ -80,7 +80,7 @@ a {
   /*=Tagline=*/
   --section-tagline-transform: uppercase;
   /*=Title=*/
-  --section-title-margin; 0;
+  --section-title-margin: 0;
   --section-title-color: var(--color-black);
 }
 
